@@ -1,0 +1,19 @@
+{
+  "name": "ccip-starter",
+  "version": "1.0.0",
+  "description": "Example from [here](https://docs.chain.link/ccip/getting-started)",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@chainlink/contracts": "^0.6.1",
+    "@chainlink/contracts-ccip": "^1.2.1"
+  }
+}

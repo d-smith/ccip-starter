@@ -1,10 +1,13 @@
+.ipynb_checkpoints/
+.secret
+node_modules/
 # Compiler files
 cache/
 out/
 
 # Ignores development broadcast logs
 !/broadcast
-/broadcast/*/31337/
+/broadcast/*/11155111/
 /broadcast/**/dry-run/
 
 # Docs
